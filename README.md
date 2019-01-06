@@ -1,5 +1,6 @@
 # VectorXf
-Vector class 2f, 3f, 4f (port of ofVecXf (openFrameworks))
+Vector class 2f, 3f, 4f (port of ofVecXf (openFrameworks)).
+If you want the replacement of `std::vector` for Arduino, see [RingBuffer](https://github.com/hideakitai/RingBuffer).
 
 ## Usage
 
